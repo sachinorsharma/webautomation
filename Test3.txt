@@ -1,1 +1,2 @@
 i have change git@github.com:sachinorsharma/webautomation.git
+add new command
