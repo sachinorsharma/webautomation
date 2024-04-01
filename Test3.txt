@@ -1,6 +1,6 @@
 i have change git@github.com:sachinorsharma/webautomation.git
 add new command git test I have done git@github.com:sachinorsharma/webautomation.git
-Test again updated again add new test for git 
+Test again updated again remove the some part
 Add new test for git
 
 
