@@ -1,3 +1,4 @@
 i have change git@github.com:sachinorsharma/webautomation.git
-add new command git test I have done update
-Test again updated again
+add new command git test I have done update today test
+Test again updated again today test
+Add new test for git
