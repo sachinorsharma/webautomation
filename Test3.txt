@@ -1,7 +1,7 @@
 i have change git@github.com:sachinorsharma/webautomation.git
 add new command git test I have done git@github.com:sachinorsharma/webautomation.git
 Test again updated again remove the some part sachin update same place
-Add new test for git
+Add new test for git add new
 
 
 
