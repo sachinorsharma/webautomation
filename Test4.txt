@@ -1,0 +1,5 @@
+It allowed developers to automate web browsers by executing JavaScript commands directly in the browser. Later in 2006, Selenium Core got upgraded to Selenium Remote Control (Selenium RC) or Selenium 1. Selenium RC introduced a server component which acted as a proxy between the test script and the browser. This enabled cross-browser testing and supported multiple programming languages.
+
+In 2009, Simon Stewart (then at Google) created a new cross platform library called WebDriver to automate browser testing. It was designed to overcome the complexities in Selenium RC and provide a simple and consistent interface by using native browser automation APIs rather than JavaScript injection. 
+
+In 2011, Selenium RC and Selenium WebDriver were combined to form Selenium 2 and over the years Selenium has gone into major updates and Selenium 3 got introduced in 2016 with bug fixes, security enhancements and support for modern browsers. Selenium 4 is the latest release with several new features and enhancements from previous versions and is fully W3C compliant.
